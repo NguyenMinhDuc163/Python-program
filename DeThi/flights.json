@@ -1,0 +1,19 @@
+{
+    "flights": [
+        {
+            "year": "1949",
+            "month": "January",
+            "passengers": "112"
+        },
+        {
+            "year": "1949",
+            "month": "February",
+            "passengers": "118"
+        },
+        {
+            "year": "1949",
+            "month": "March",
+            "passengers": "132"
+        }
+    ]
+}
